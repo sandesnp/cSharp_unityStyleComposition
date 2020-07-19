@@ -1,0 +1,13 @@
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\bin\Debug\netcoreapp3.1\unityComposition.exe
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\bin\Debug\netcoreapp3.1\unityComposition.deps.json
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\bin\Debug\netcoreapp3.1\unityComposition.runtimeconfig.json
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\bin\Debug\netcoreapp3.1\unityComposition.runtimeconfig.dev.json
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\bin\Debug\netcoreapp3.1\unityComposition.dll
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\bin\Debug\netcoreapp3.1\unityComposition.pdb
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.csprojAssemblyReference.cache
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.AssemblyInfoInputs.cache
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.AssemblyInfo.cs
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.csproj.CoreCompileInputs.cache
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.dll
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.pdb
+D:\Programming Works\Programming Language\C# helps\C# Works\unityComposition\unityComposition\obj\Debug\netcoreapp3.1\unityComposition.genruntimeconfig.cache
